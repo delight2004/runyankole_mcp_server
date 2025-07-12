@@ -1,0 +1,25 @@
+--- Runyakole/Rukiga Language Knowledge Base ---
+
+Greetings:
+- Hello (singular): Oraire ota
+- Hello (plural): Muraire muta
+- How are you? (singular): Oli ota?
+- How are you? (plural): Muli muta?
+- I am fine: Ndi kurungi
+- Welcome: Murakaza nungi
+
+Basic Vocabulary:
+- Person: Omuntu (singular), Abantu (plural)
+- Child: Omwana (singular), Abaana (plural)
+- Water: Amaizi
+- Food: Ebyokurya
+- House: Enyumba
+
+Grammar Notes:
+- Noun Classes: Runyakole/Rukiga has several noun classes indicated by prefixes.
+  - 'Om-'/'Ab-': Used for people. E.g., Omuntu (person), Abantu (people).
+  - 'Eki-'/'Ebi-': Used for things. E.g., Ekintu (thing), Ebintu (things).
+
+Example Sentences:
+- Omuntu oli ota? (Person, how are you?)
+- Abaana bali kurungi. (The children are fine.)
